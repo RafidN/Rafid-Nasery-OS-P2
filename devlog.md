@@ -23,3 +23,17 @@ understanding of the project below.
   - waitForCustomer, introduced, askedForTxn, txnProvided, done, left
   - Probably best to leave logs before and after each interaction stage
 
+### Nov 14 2025, 10:37 AM
+
+#### This session's goals:
+
+- I have had exams all week including the OS exam, and so haven't been able to work on the project.
+- Will try to complete the entire project today so I can free up my Sunday.
+- Checklist of items to do:
+- Think about how package structure/classes should be organized, use OOP where it makes sense
+- Include logging throughout and match the output example provided
+- Create Bank, Teller, and Customer
+- Implement Main to begin the simulation for the project of 3 tellers and 50 customers
+
+#### Notes during Development:
+
