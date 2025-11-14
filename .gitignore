@@ -1,4 +1,6 @@
-/Rafid-Nasery-OS-P2.iml
 /.idea/
 *.iml
 /out/
+*.class
+*.log
+*.out
